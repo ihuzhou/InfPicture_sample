@@ -1,6 +1,7 @@
 ##InfPicture
 这就是一个图片无限循环的工程 InfPicture的inf是infinite的意思
-
+------
+INF
 -------
 -------
 ###运行环境
